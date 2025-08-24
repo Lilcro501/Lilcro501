@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Cristian
 
-<!--
-**Lilcro501/Lilcro501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Soy de Colombia  
+🍞 Actualmente trabajando en **Panadería Fast Service**  
+💻 Apasionado por el desarrollo (Django + React) FullStack
+📊 Explorando el mundo de la **Data Science** 
+🎸 Me gusta escuchar Musica en ingles mientras programo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías que uso
+- Python 🐍 | Django ⚡ | Django Rest Framework | 
+- JavaScript | React ⚛️ | Node.js |
+- MySQL 🗄️ | SQLite  |
+- Git & GitHub 🔧  |
+
+---
+---
+
+## 🌱 Actualmente aprendiendo
+- Desarollo de un sistema de gestion de carrito de compras para la panaderia la orquidea
+- 🔐 Seguridad en autenticación (tokens, JWT, refresh tokens)  
+- 📊 Desarollo con framework django  
+- 🎨 Frontend moderno con React  
+
+---
+
+## 📫 Cómo contactarme
+- ✉️ Crisandresortiz3228gmail.com 
+- 💼 
