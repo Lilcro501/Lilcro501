@@ -1,3 +1,7 @@
+<img src="https://i.pinimg.com/originals/05/5d/a9/055da9916de8a45532209a4b7a36c9b4.gif" width="150" />
+
+
+
 # ¡Hola! 👋 Soy Cristian
 
 🌍 Soy de Colombia  
