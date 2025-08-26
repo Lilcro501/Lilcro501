@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gifdb.com/images/thumbnail/luffy-haki-one-piece-gear-5-j9jlt1q5y2y8brbn.gif" width="200px" />
+  <img src="https://gifs.alphacoders.com/gifs/view/219971" width="200px" />
 </p
 
 
