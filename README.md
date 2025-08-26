@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[https://gifs.alphacoders.com/gifs/view/219971](https://www.pinterest.com/pin/gear-5-gear-5-luffy-gif-gear-5-gear-5-luffy-one-piece-discover-share-gifs--906490231230390775/)](https://i.pinimg.com/originals/27/ba/14/27ba14e3cd9aa718dd7ec65a41f5eb4b.gif)" width="200px" />
+  <img src="https://gifs.alphacoders.com/gifs/view/219971](https://www.pinterest.com/pin/gear-5-gear-5-luffy-gif-gear-5-gear-5-luffy-one-piece-discover-share-gifs--906490231230390775/" width="200px" />
 </p
 
 
