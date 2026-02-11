@@ -1,5 +1,5 @@
 <p align="center">
- [<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/d249df3a-8e0b-48ba-8d3b-a5889dbf6c06" />](https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202311/luffy-luffy-gear-5101123024905.gif?size=720:*)
+ <img width="540" height="365" alt="image" src="https://github.com/user-attachments/assets/b8e2b613-64d8-46c5-8878-da575b8ff8b0" />
 </p>
 
 
