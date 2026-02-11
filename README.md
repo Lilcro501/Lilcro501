@@ -32,5 +32,5 @@
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ Personal: Crisandresortiz3228gmail.com 
+- ✉️ Personal: Crisandresortiz3228@gmail.com 
 - 💼 Estudiantil: Cristiana_ortizo@soy.sena.edu.co
