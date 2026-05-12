@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
 # ¡Hola! 👋 Soy Cristian
 
 🌍 Soy de Colombia  
@@ -37,3 +33,4 @@
 ## 📫 Cómo contactarme
 - ✉️ Personal: Crisandresortiz3228@gmail.com 
 - 💼 Estudiantil: Cristiana_ortizo@soy.sena.edu.co
+- 💻: Mas informacion: https://lilcro501.github.io/Portafolio/
