@@ -1,36 +1,46 @@
-<p align="center">
- <img width="540" height="365" alt="image" src="https://github.com/user-attachments/assets/b8e2b613-64d8-46c5-8878-da575b8ff8b0" />
-</p>
+<div align="center">
 
+# Cristian Ortiz
 
+**Fullstack Developer** · Django + React · Spring Boot
 
-# ¡Hola! 👋 Soy Cristian
+[![Colombia](https://img.shields.io/badge/🇨🇴-Colombia-10b981?style=flat-square&labelColor=1a1a2e)](https://github.com/lilcro501)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lilcro501.github.io-6366f1?style=flat-square&logo=github&logoColor=white)](https://lilcro501.github.io/Portafolio/)
+[![Email](https://img.shields.io/badge/Email-Personal-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Crisandresortiz3228@gmail.com)
 
-🌍 Soy de Colombia  
-🍞 Actualmente trabajando en **Sistema de gestion e inventario para un laboratorio**  
-💻 Apasionado por el desarrollo (Django + React) {(Spring boot + React )FullStack
-📊 Explorando el mundo de la **Data Science** 
-🎸 Me gusta escuchar Musica en ingles mientras programo
+</div>
 
 ---
 
-## 🔧 Tecnologías que uso
-- Python 🐍 | Django ⚡ | Django Rest Framework | Spring Boot
-- JavaScript | React ⚛️ | Node.js |
-- MySQL 🗄️ | SQLite  | Postgress SQl
-- Git & GitHub 🔧  |
+## Sobre mí
 
----
----
-
-## 🌱 Actualmente aprendiendo
-- Desarollo de un sistema de gestion de pedidos e inventario 
-- 📊 Ajustes y validacion de reportes en base a los movimientos que se realizan en el inventario  
-- 🎨 Diseño y ajustes en el apartado del frontend, corrigiendo y validando diferentes secciones
+Desarrollador apasionado por construir sistemas web robustos con **Django + React** y **Spring Boot + React**. Actualmente trabajando en un **sistema de gestión e inventario para laboratorio** y explorando el mundo del **Data Science**. Programo mejor con música en inglés de fondo 🎸.
 
 ---
 
-## 📫 Cómo contactarme
-- ✉️ Personal: Crisandresortiz3228@gmail.com 
-- 💼 Estudiantil: Cristiana_ortizo@soy.sena.edu.co
-- 💻: Mas informacion: https://lilcro501.github.io/Portafolio/
+## 🔧 Stack tecnológico
+
+| Área | Tecnologías |
+|------|-------------|
+| **Backend** | Python · Django · Django REST Framework · Spring Boot |
+| **Frontend** | JavaScript · React · Node.js |
+| **Bases de datos** | MySQL · SQLite · PostgreSQL |
+| **Herramientas** | Git · GitHub |
+
+---
+
+## 🚀 En qué estoy trabajando
+
+- 📦 Sistema de gestión de pedidos e inventario para laboratorio
+- 📊 Ajustes y validación de reportes basados en movimientos del inventario
+- 🎨 Diseño y corrección de distintas secciones del frontend
+
+---
+
+## 📫 Contacto
+
+| Canal | Dirección |
+|-------|-----------|
+| ✉️ Personal | [Crisandresortiz3228@gmail.com](mailto:Crisandresortiz3228@gmail.com) |
+| 🎓 Estudiantil | [Cristiana_ortizo@soy.sena.edu.co](mailto:Cristiana_ortizo@soy.sena.edu.co) |
+| 🌐 Portafolio | [lilcro501.github.io/Portafolio](https://lilcro501.github.io/Portafolio/) |
