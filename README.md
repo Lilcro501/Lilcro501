@@ -31,11 +31,8 @@ Desarrollador apasionado por construir sistemas web robustos con **Django + Reac
 
 ## 🚀 En qué estoy trabajando
 
-- 📦 Sistema de gestión de pedidos e inventario para laboratorio
-- 📊 Ajustes y validación de reportes basados en movimientos del inventario
-- 🎨 Diseño y corrección de distintas secciones del frontend
-
----
+- Inicio del aprendizaje de vue.js
+- Inicio de proyecto de mascota feliz
 
 ## 📫 Contacto
 
