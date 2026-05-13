@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-Desarrollador apasionado por construir sistemas web robustos con **Django + React** y **Spring Boot + React**. Actualmente trabajando en un **sistema de gestión e inventario para laboratorio** y explorando el mundo del **Data Science**. Programo mejor con música en inglés de fondo 🎸.
+Desarrollador apasionado por construir sistemas web robustos con **Django + React** y **Spring Boot + React**. Actualmente trabajando en un sistema para la gestion de mascota e inicio del aprendizaje de vue.js y explorando el mundo del **Data Science**. Programo mejor con música en inglés de fondo 🎸.
 
 ---
 
