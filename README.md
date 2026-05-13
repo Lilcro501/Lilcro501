@@ -1,4 +1,4 @@
-<div align="center", background="#ffff>
+<div align="center">
 
 # Cristian Ortiz
 
